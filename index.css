@@ -207,3 +207,28 @@ main {
     flex: 1;
     padding: 90px;
 }
+
+#LanguageList {
+    font-size:48px ;
+    font-family:Cursive ;
+    color: ;
+    text-shadow: 10px 10px 10px #001a33,10px 10px 20px navy,10px 30px 20px white ;
+}
+.html-lanugage {
+    margin-left:90%;
+}
+.css-language {
+    margin-left:90%;
+}
+.javascript-language {
+    margin-left:180%;
+}
+.java-language {
+    margin-left:320%;
+}
+.scratch-language {
+    margin-left: 400%;
+}
+.ev3-language {
+    margin-left: 500%;
+}
